@@ -12,7 +12,7 @@ The model requires a dataset containing historical credit card transactions, ide
 
 Check out the implementation and code on Kaggle:
 
-[Credit Card Fraud Detection Notebook](https://www.kaggle.com/code/elsiemicah/fraudelent-detection-model)
+[Credit Card Fraud Detection Notebook](https://www.kaggle.com/code/elsiemicah/fraudulent-detection-model)
 
 ## Author
 
